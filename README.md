@@ -88,7 +88,7 @@ This repository is a toolkit called "USTC-TK2016", which is used to parse networ
 4. Run [`3_Session2Png.py`](3_Session2Png.py) (take a few minutes)
     ```bash
     # Make sure your current directory is correct
-    $ python3 3_Session2png.py
+    $ python3 3_Session2Png.py
     [INFO] Saving image in: 4_Png/Train/0
     ...
     [INFO] Saving image in: 4_Png/Test/0
